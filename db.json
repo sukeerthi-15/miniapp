@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "fname": "ramesh",
+      "lname": "a",
+      "email": "ramesh@gmail.com",
+      "phone": "987654321",
+      "dob": "1997-08-26"
+    },
+    {
+      "fname": "suresh",
+      "lname": " S",
+      "email": "suresh@gmail.com",
+      "phone": " 983456271",
+      "dob": "2010-01-26",
+      "id": 1
+    },
+    {
+      "fname": "priya",
+      "lname": "S",
+      "email": "priya@gmail.com",
+      "phone": "975312468",
+      "dob": "1999-11-02",
+      "id": 2
+    },
+    {
+      "fname": " Lakmi",
+      "lname": " M",
+      "email": "lakmi@gmail.com",
+      "phone": "8766554324",
+      "dob": "2004-07-07",
+      "id": 3
+    },
+    {
+      "fname": " tharun",
+      "lname": "S",
+      "email": "tharun@gmail.com",
+      "phone": "954379327",
+      "dob": "2005-03-05",
+      "id": 4
+    },
+    {
+      "fname": "lokesh",
+      "lname": "B",
+      "email": "lokesh@ibm.com",
+      "phone": "12345678",
+      "dob": "2005-2-15",
+      "id": 5
+    },
+    {
+      "fname": "sri",
+      "lname": "B",
+      "email": "sri@ibm.com",
+      "phone": "8642135791",
+      "dob": "2002-01-02",
+      "id": 6
+    },
+    {
+      "fname": "sai",
+      "lname": "B",
+      "email": "sai@ibm.com",
+      "phone": "763253849",
+      "dob": "2000-01-01",
+      "id": 7
+    },
+    {
+      "fname": "sukeerthi",
+      "lname": "siddapareddy",
+      "email": "abcd@gmail.com",
+      "phone": "9441699416",
+      "dob": "2000-01-01",
+      "id": 8
+    },
+    {
+      "fname": "udaya",
+      "lname": "bhanu",
+      "email": "abcd@gmail.com",
+      "phone": "9441699416",
+      "dob": "2000-01-01",
+      "id": 9
+    },
+    {
+      "fname": "kavya",
+      "lname": "k",
+      "email": "kavya@gmail.com",
+      "phone": "9875246182",
+      "dob": "dd-mm-year",
+      "id": 10
+    },
+    {
+      "fname": " aswin",
+      "lname": " g",
+      "email": "aswin@gmail.com",
+      "phone": " 7724362819",
+      "dob": "2022-07-07",
+      "id": 11
+    },
+    {
+      "fname": "kavya sri",
+      "lname": "k",
+      "email": "kavya@gmail.com",
+      "phone": "9875246182",
+      "dob": "dd-mm-year",
+      "id": 12
+    },
+    {
+      "fname": " nithya",
+      "lname": " v",
+      "email": "nithya@gmail.com",
+      "phone": " 8500342516",
+      "dob": "2022-08-26",
+      "id": 13
+    },
+    {
+      "fname": " nithya sri",
+      "lname": " velluru",
+      "email": "nithyav@gmail.com",
+      "phone": " 8500342556",
+      "dob": "2022-08-26",
+      "id": 14
+    },
+    {
+      "fname": " jyothi",
+      "lname": " n",
+      "email": "jyothi@gmail.com",
+      "phone": " 9381204078",
+      "dob": "2022-08-25",
+      "id": 15
+    },
+    {
+      "fname": "likhi",
+      "lname": " b",
+      "email": "likhi@gmail.com",
+      "phone": "9490294194",
+      "dob": "2022-08-27",
+      "id": 16
+    }
+  ]
+}
